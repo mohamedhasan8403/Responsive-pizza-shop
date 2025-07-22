@@ -3,7 +3,7 @@
 [![HTML](https://img.shields.io/badge/Primary%20Language-HTML-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## Description
-No description provided for this repository.
+This project is a modern and fully responsive website for a pizza shop, built with HTML, CSS, and JavaScript. It provides a seamless user experience for customers to browse the menu, customize their orders, and complete their purchases online. The design is clean, intuitive, and optimized for all devices.
 
 ## Key Features and Highlights
 - Responsive design for pizza shop website
